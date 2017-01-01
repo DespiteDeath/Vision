@@ -1,0 +1,6 @@
+with two pair, Aces and Tens
+
+Dealer: Hand #163874132166: ARKADASQO4 ties for pot
+(2,029) with two pair, Aces and Tens
+
+Dealer: Hand 11163874175213: ARKADASQO4 wins pct (8,213)

@@ -1,4 +1,4 @@
-# Computer Vision (Mac OS Sierra)
+# Computer Vision (Mac OS Sierra + Python 3.5.2)
 
 1) It is necessary to have installed:
 

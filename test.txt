@@ -1,6 +1,6 @@
-with two pair, Aces and Tens
+(3,547) with a pair of Aces
 
-Dealer: Hand #163874132166: ARKADASQO4 ties for pot
-(2,029) with two pair, Aces and Tens
+Dealer: porthosg has a pair of Queens
 
-Dealer: Hand 11163874175213: ARKADASQO4 wins pct (8,213)
+Dealer: Hand #164056871832: Hector,Y0667 wins main pot
+(30,946) with a pair of Aces
